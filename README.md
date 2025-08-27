@@ -53,7 +53,12 @@ This project leverages *Natural Language Processing (NLP)* and *Machine Learning
 ---
 
 ## 📂 Project Structure
-Fake-News-Detection/ │ ├── data/                 # Dataset files (not included due to size/license) ├── notebooks/            # Jupyter notebooks (EDA & model training) ├── app.py                # Streamlit web app for prediction ├── requirements.txt      # Project dependencies ├── README.md             # Project documentation
+Fake-News-Detection/ │ ├── data/                
+# Dataset files (not included due to size/license) ├── notebooks/           
+# Jupyter notebooks (EDA & model training) ├── app.py               
+# Streamlit web app for prediction ├── requirements.txt      
+# Project dependencies ├── README.md            
+# Project documentation
 
 ## ▶️ How to Run
 1. Clone the repository  
